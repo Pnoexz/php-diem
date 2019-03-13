@@ -1,2 +1,2 @@
-# php-diem
-Date management library
+# Diem
+Date management library built with quality tools in mind.
